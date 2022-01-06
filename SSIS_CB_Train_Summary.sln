@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS_CB_Train_Summary", "SSIS_CB_Train_Summary.dtproj", "{7946BC25-A972-40D6-ABA7-F3789CD53A19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7946BC25-A972-40D6-ABA7-F3789CD53A19}.Development|Default.ActiveCfg = Development
+		{7946BC25-A972-40D6-ABA7-F3789CD53A19}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B6C6590-9093-4FD3-83D4-EBBEB0B0B440}
+	EndGlobalSection
+EndGlobal
